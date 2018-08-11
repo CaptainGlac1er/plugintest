@@ -1,0 +1,11 @@
+C:\Users\George\Documents\personalprojects\plugin-practice\MainProgram\bin\Debug\netcoreapp2.1\plugin-practice.deps.json
+C:\Users\George\Documents\personalprojects\plugin-practice\MainProgram\bin\Debug\netcoreapp2.1\plugin-practice.runtimeconfig.json
+C:\Users\George\Documents\personalprojects\plugin-practice\MainProgram\bin\Debug\netcoreapp2.1\plugin-practice.runtimeconfig.dev.json
+C:\Users\George\Documents\personalprojects\plugin-practice\MainProgram\bin\Debug\netcoreapp2.1\plugin-practice.dll
+C:\Users\George\Documents\personalprojects\plugin-practice\MainProgram\bin\Debug\netcoreapp2.1\plugin-practice.pdb
+C:\Users\George\Documents\personalprojects\plugin-practice\MainProgram\obj\Debug\netcoreapp2.1\plugin-practice.csprojAssemblyReference.cache
+C:\Users\George\Documents\personalprojects\plugin-practice\MainProgram\obj\Debug\netcoreapp2.1\plugin-practice.csproj.CoreCompileInputs.cache
+C:\Users\George\Documents\personalprojects\plugin-practice\MainProgram\obj\Debug\netcoreapp2.1\plugin-practice.AssemblyInfoInputs.cache
+C:\Users\George\Documents\personalprojects\plugin-practice\MainProgram\obj\Debug\netcoreapp2.1\plugin-practice.AssemblyInfo.cs
+C:\Users\George\Documents\personalprojects\plugin-practice\MainProgram\obj\Debug\netcoreapp2.1\plugin-practice.dll
+C:\Users\George\Documents\personalprojects\plugin-practice\MainProgram\obj\Debug\netcoreapp2.1\plugin-practice.pdb
